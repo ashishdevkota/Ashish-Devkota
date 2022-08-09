@@ -1,6 +1,6 @@
 
 let texts=['Freelancer','UI & UX Designer','IT OFFICER','PROGRAMMER','TECH GUY'];
-let demo=document.querySelector('#demo')
+let demo=document.querySelector('.anim')
 let animation=gsap.timeline({repeat:-1,repeatDelay:0.6})
 
 
